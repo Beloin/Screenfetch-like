@@ -1,0 +1,13 @@
+.TH rodriguesfetch 1
+
+.SH NAME
+
+.I rodriguesfetch
+\- My own version of screenfetch, hence the name "Rodrigues"
+
+.SH SYNOPSIS
+
+.B rodriguesfetch
+In a initial implementation 
+.I sudo
+is necessary

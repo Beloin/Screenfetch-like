@@ -1,5 +1,10 @@
 # A Screenfetch-like program
 
+A Screenfetch-like program that gets user data and prints to the screen.
+
+Build tool:
+ - Using `make`
+
 # Differential
 
 Yet to think:
