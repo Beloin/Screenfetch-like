@@ -9,7 +9,6 @@
 
 
 void exit_on_err(char *txt);
-
 void get_user_data();
 
 char *full_name;
@@ -27,7 +26,7 @@ int main(int argc, char *argv[]) {
 
     get_user_data();
 
-    printf("Hello, %s\n", full_name);
+    printf("Hello, %s (%s)\n", full_name, login);
 
     printf("Computer %s\n", computer);
     printf("Machine: %s\n", uts.machine);
